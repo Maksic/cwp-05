@@ -37,7 +37,6 @@ const server = http.createServer((req, res) => {
             }
             res.statusCode = 200;
             res.setHeader('Content-Type', 'application/json');
-            //changeArticles();
             res.end( JSON.stringify(result) );
         });
     });
