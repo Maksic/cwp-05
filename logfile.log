@@ -1,0 +1,8 @@
+Date: Wed Sep 26 2018 01:16:17 GMT+0300 (Moscow Standard Time)
+Url: /api/comments/create
+Body: {"id":1537913777976,"articleId":3,"text":"Выход новой OS от ребят из Купертино.","date":"25-10-2018","author":"Macsic.ml"}
+=============================================================== 
+Date: Wed Sep 26 2018 01:25:20 GMT+0300 (Moscow Standard Time)
+Url: /api/comments/delete
+Body: {"id":2,"articleId":2}
+=============================================================== 
